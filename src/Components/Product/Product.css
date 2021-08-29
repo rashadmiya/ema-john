@@ -1,0 +1,22 @@
+.product {
+  display: flex;
+  border-bottom: 1px solid gray;
+  margin-right: 1em;
+}
+
+.data-sec h5 {
+  color: rgb(68, 68, 223);
+}
+
+.data-sec {
+  width: 80%;
+  padding-left: 1em;
+  margin-bottom: 1em;
+}
+.cart-button {
+  background-color: gold;
+  border: 1px solid gray;
+  width: 200px;
+  height: 30px;
+  cursor: pointer;
+}

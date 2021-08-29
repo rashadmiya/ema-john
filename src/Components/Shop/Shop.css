@@ -1,0 +1,15 @@
+.main-container {
+  display: flex;
+}
+.product-container {
+  display: inline-block;
+  width: 80%;
+  margin-left: 5em;
+  margin-right: 1em;
+  border-right: 1px solid lightgray;
+}
+.cart-container {
+  display: inline-block;
+  width: 20%;
+  text-align: center;
+}

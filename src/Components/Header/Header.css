@@ -1,0 +1,22 @@
+.header {
+  text-align: center;
+}
+.header img {
+  height: 80px;
+  text-align: center;
+}
+.navigerion {
+  text-align: start;
+  background-color: black;
+  padding: 5px 0 5px 20px;
+}
+.navigerion a {
+  text-decoration: none;
+  color: #fff;
+  margin-left: 18px;
+  font-size: 18px;
+  padding: 5px;
+}
+.navigerion a:hover {
+  background-color: gray;
+}
